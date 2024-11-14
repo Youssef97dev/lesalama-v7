@@ -24,7 +24,7 @@ const About = () => {
   return (
     <div className="w-full h-fit flex flex-col justify-center items-center py-5">
       <div className="text-primary text-center px-7">
-        <p className="text-sm xl:text-lg">
+        <p className="text-base lg:text-lg">
           {`Le Salama was born from a dream: to create a place where Moroccan tradition meets contemporary culture, where every dish tells a story, and where every meal becomes an unforgettable moment of sharing.`}
           <br />
           {"***"}
@@ -70,7 +70,7 @@ const About = () => {
         </Swiper>
       </div>
       <div className="text-primary text-center px-7">
-        <p className="text-sm xl:text-lg">
+        <p className="text-base lg:text-lg">
           {`Our dishes are crafted with a deep respect for Moroccan tradition, enhanced by global culinary creativity.
             Signature Cocktails to Delight Your Senses. As the sun sets, Le Salama transforms into a lively evening spot.`}
           <br />
