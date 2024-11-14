@@ -25,6 +25,13 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "Helvetica";
+  src: url("./fonts/HelveticaNeue.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+}
+
 :root {
   --brown-100: #8b5330;
   --brown-trensparant: #0000002a;

@@ -22,7 +22,7 @@ const items = [
 
 const About = () => {
   return (
-    <div className="w-full h-fit flex flex-col justify-center items-center py-5">
+    <div className="w-full h-fit flex flex-col justify-center items-center py-5 lg:hidden">
       <div className="text-primary text-center px-7">
         <p className="text-base lg:text-lg">
           {`Le Salama was born from a dream: to create a place where Moroccan tradition meets contemporary culture, where every dish tells a story, and where every meal becomes an unforgettable moment of sharing.`}

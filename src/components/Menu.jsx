@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const Menu = () => {
   return (
-    <div className="w-full h-full flex flex-col justify-center items-center gap-4 py-5">
+    <div className="w-full h-full flex flex-col justify-center items-center gap-4 py-5 lg:hidden">
       <span className="text-center text-primary px-7 text-base lg:text-lg">
         {
           "We don't simply want to offer an exceptional service, we want to provide a unique experience."

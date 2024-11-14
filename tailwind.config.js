@@ -19,6 +19,10 @@ module.exports = {
         primary_2: "var(--brown-20)",
         primary_1: "var(--brown-10)",
       },
+      fontFamily: {
+        garamond: ["AGaramondPro", "serif"],
+        helvetica: ["Helvetica", "sans-serif"],
+      },
     },
   },
   plugins: [],
