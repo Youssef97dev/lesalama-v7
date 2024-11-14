@@ -11,10 +11,12 @@ const Hero = () => {
         className="absolute top-0 left-0 w-full h-full bg-cover bg-center block lg:hidden"
         style={{
           backgroundImage:
-            "url(https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/Salama/hydocjlufhkp5j6lamuw.jpg)",
+            "url(https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/Salama/salama_20-min_m92cvb)",
           backgroundAttachment: "fixed",
         }}
-      ></div>
+      >
+        <div className="h-full w-full bg-[#00000027]"></div>
+      </div>
       <div
         className="absolute top-0 left-0 w-full h-full bg-cover bg-center hidden lg:block"
         style={{
