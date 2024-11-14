@@ -22,7 +22,7 @@ const items = [
 
 const About = () => {
   return (
-    <div className="w-full flex flex-col justify-center items-center py-5">
+    <div className="w-full h-fit flex flex-col justify-center items-center py-5">
       <div className="text-primary text-center px-7">
         <p className="text-sm xl:text-lg">
           {`Le Salama was born from a dream: to create a place where Moroccan tradition meets contemporary culture, where every dish tells a story, and where every meal becomes an unforgettable moment of sharing.`}
@@ -54,7 +54,7 @@ const About = () => {
                 <SwiperSlide key={i}>
                   <img
                     src={`${item}`}
-                    className="w-full max-h-80 object-cover"
+                    className="w-full max-h-full object-cover"
                     alt="itemImage"
                   />
                 </SwiperSlide>
