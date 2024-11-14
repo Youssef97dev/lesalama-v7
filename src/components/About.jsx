@@ -18,6 +18,7 @@ const items = [
   "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/Salama/ljiyhenxkorfy9e6qgdl",
   "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/Salama/uqwxcsj3f0mqw4ywfd0u",
   "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/Salama/salama2_eqqvyn",
+  "https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/Salama/salama455_fynstm",
 ];
 
 const About = () => {
